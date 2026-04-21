@@ -1,0 +1,4 @@
+Nombre: julio antonio rivera perez
+Fecha: 20 de abril de 2026
+Objetivo: Practicar el flujo de trabajo colaborativo usando ramas y Pull Requests en Git.
+¿Qué es un Pull Request?: Es una petición para integrar los cambios de una rama (feature) a otra rama principal (main), permitiendo que otros revisen el código antes de fusionarlo.
